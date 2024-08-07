@@ -1,0 +1,28 @@
+.pokemonCard {
+    min-height: 44vh;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    width: 18vw;
+    background-color: white;
+    margin: 10px;
+    list-style: none;
+}
+.pokemonCard>img{
+    height: 20vh;
+    width: 90%;
+    margin: 10px;
+ 
+}
+
+h2 {
+    text-align: center;
+    color: tomato;
+}
+
+.span {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 4px;
+    color: green;
+    gap: 10px;
+    font-size:smaller;
+}
