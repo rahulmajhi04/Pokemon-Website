@@ -24,3 +24,12 @@ ul {
     align-items: center;
     justify-content: center;
 }
+
+@media only screen and (max-width: 600px) {
+    body {
+      background-color: lightblue;
+    }
+    .pokemonCard {
+        width: 54vw;
+    }
+}
