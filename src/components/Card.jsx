@@ -1,5 +1,6 @@
 import React from 'react'
 import './Card.css'
+import '../App.css'
 function Card(props) {
     return (
         <li className='pokemonCard'>
