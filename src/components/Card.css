@@ -6,11 +6,12 @@
     margin: 10px;
     list-style: none;
 }
-.pokemonCard>img{
+
+.pokemonCard>img {
     height: 20vh;
     width: 90%;
     margin: 10px;
- 
+
 }
 
 h2 {
@@ -24,5 +25,5 @@ h2 {
     margin: 4px;
     color: green;
     gap: 10px;
-    font-size:smaller;
+    font-size: smaller;
 }
